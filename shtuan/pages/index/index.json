@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "mp-navigation-bar": "../../weui-miniprogram/navigation-bar/navigation-bar",
+    "van-button": "vant-weapp/button/index",
+    "van-tab": "vant-weapp/tab/index",
+    "van-tabs": "vant-weapp/tabs/index",
+    "van-card": "vant-weapp/card/index"
+  },
+  
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "UI组件库"
+  
+}
